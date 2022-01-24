@@ -59,7 +59,7 @@ def ordena_quick(vet):
 # pegando os valores da API
 def get_data():
     control = 0
-    page = 9990
+    page = 1
     vet = []
     while control != -1:
         tentativas = 0
